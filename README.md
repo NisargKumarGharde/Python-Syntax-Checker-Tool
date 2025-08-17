@@ -18,3 +18,14 @@ This project focuses on creating a Python utility that reads the contents of .py
 3. Validate syntax using *compile()*
 4. Catch syntax errors using *try-except*
 5. Dispaly result to the user with appropriate message
+
+## *Note:*
+
+1. Use IDE you prefer from the following: VS Code, Jupyter, Google Colab or JetBrains
+2. Use Python version (eg. Python 3.8 or more)
+3. Read the commented part in the code, to avoid any confusion.
+
+### *Also*
+Sorry for any inconvenience if caused while reviewing the project.
+
+# THANK YOU
