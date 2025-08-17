@@ -3,6 +3,8 @@
 
 This project focuses on creating a Python utility that reads the contents of .py file and checks for syntax errors using the built-in compile() function. It helps students detect mistakes in their code before execution.
 
+*Part of my college IIT Patna tied up with GUVI(HCL) internship.
+
 ### *Description:*
 
 1. Accept the file path of a Python script from the user
