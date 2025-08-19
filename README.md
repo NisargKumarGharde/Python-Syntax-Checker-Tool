@@ -19,7 +19,7 @@ This project focuses on creating a Python utility that reads the contents of .py
 2. Read and store script content using file handling
 3. Validate syntax using *compile()*
 4. Catch syntax errors using *try-except*
-5. Dispaly result to the user with appropriate message
+5. Display result to the user with appropriate message
 
 ## *Note:*
 
