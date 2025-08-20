@@ -5,7 +5,7 @@ This project focuses on creating a Python utility that reads the contents of .py
 
 *Part of my college IIT Patna tied up with GUVI(HCL) internship.
 
-## Do this before running the program
+## *Do this before running the program
 Before opening my *.py* file in any IDE, disable any code assist (eg. GitHub Copilot, Gemini Code Assist, or other).
 
 ### *Description:*
@@ -31,7 +31,7 @@ Before opening my *.py* file in any IDE, disable any code assist (eg. GitHub Cop
 3. Use Python version (eg. Python 3.8 or more)
 4. Read the commented part in the code, to avoid any confusion.
 
-### *Also*
+### **Also*
 Sorry for any inconvenience if caused while reviewing the project.
 
 # THANK YOU
