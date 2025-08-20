@@ -5,6 +5,9 @@ This project focuses on creating a Python utility that reads the contents of .py
 
 *Part of my college IIT Patna tied up with GUVI(HCL) internship.
 
+## Do this before running the program
+Before opening my *.py* file in any IDE, disable any code assist (eg. GitHub Copilot, Gemini Code Assist, or other).
+
 ### *Description:*
 
 1. Accept the file path of a Python script from the user
@@ -24,8 +27,9 @@ This project focuses on creating a Python utility that reads the contents of .py
 ## *Note:*
 
 1. Use IDE you prefer from the following: VS Code, Jupyter, Google Colab or JetBrains
-2. Use Python version (eg. Python 3.8 or more)
-3. Read the commented part in the code, to avoid any confusion.
+2. Use Python code terminal if possible for better viewing of sample test syntaxes provided.
+3. Use Python version (eg. Python 3.8 or more)
+4. Read the commented part in the code, to avoid any confusion.
 
 ### *Also*
 Sorry for any inconvenience if caused while reviewing the project.
